@@ -1,3 +1,3 @@
-# H1 BASHCOURSE
+# BASHCOURSE
 hey barbie!
  
